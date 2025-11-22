@@ -7,4 +7,7 @@
 
 ## TINKER CAD OUTPUT CIRCUIT
 
+![WhatsApp Image 2025-11-22 at 16 31 11_0cb65bbb](https://github.com/user-attachments/assets/33275c24-1216-45e1-808d-27ea2873c247)
+
+
 <img width="831" height="157" alt="image" src="https://github.com/user-attachments/assets/08c25fa5-a963-4100-8ea2-4c7e2669bb49" />
