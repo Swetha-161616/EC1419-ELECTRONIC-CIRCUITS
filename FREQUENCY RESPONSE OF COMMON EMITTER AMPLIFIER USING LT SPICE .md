@@ -26,12 +26,16 @@
 
 ## Tabulation
 
+<img width="509" height="538" alt="Screenshot 2025-11-22 155445" src="https://github.com/user-attachments/assets/2a018097-8206-4218-9aed-566b68b4cc1d" />
+
 ## Graph
+
+<img width="797" height="856" alt="image" src="https://github.com/user-attachments/assets/9a9697e2-0238-48df-9833-e9154574d7b5" />
 
 
 ## **Result**
 <img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
 
-**VOLTAGE GAIN =**
+**VOLTAGE GAIN =2db
 
-**BANDWIDTH =**
+**BANDWIDTH =40mHz
